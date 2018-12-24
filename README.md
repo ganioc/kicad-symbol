@@ -1,5 +1,5 @@
 # KiCAD Symbols
-## symbols
+## New_Lib symbols
 
 - ATGM332D
   A GPS module.
